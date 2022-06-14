@@ -4,6 +4,7 @@ git rm -r --cached
 git commit -m "Messege should be clear and shows what changed"
  git commit --amend -m "" to modify a commit
 git push
+git pull
 
 
 git status
@@ -19,7 +20,7 @@ git restore filename to discard changes
 
 
 
-
+commits are insinde branches
 
 
 
