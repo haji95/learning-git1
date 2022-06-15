@@ -1,4 +1,6 @@
+
 # learning-git1
+```
 git add .
 git rm -r --cached
 git commit -m "Messege should be clear and shows what changed"
@@ -25,7 +27,7 @@ vi filename to open files then i to insert. When finished press esc then : then 
 cat to output a file
 git diff the differnce between working directory and what has been commited
 git restore filename to discard changes
-
+```
 READ ME FILES ARE IMPORTANT, TAKE CARE OF THEM AND BUILD UP YOUR PROFILE AND MAKE A LITTLE NICE
 
 commits are insinde branches
